@@ -1,0 +1,30 @@
+td {
+    color: blue;
+    border: 3px solid black;
+    background-color: lightgrey;
+}
+
+th {
+    color: aqua;
+}
+
+tr {
+    text-align: center;
+    border: 3px solid black;
+}
+
+.tooltip {
+    padding: 3px;
+}
+
+.tooltip .tooltiptext {
+visibility: hidden;
+background-color: grey;
+color: white;
+padding: 10px;
+}
+
+.tooltip:hover .tooltiptext {
+visibility: visible;
+opacity: 1;
+}
