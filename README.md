@@ -1,9 +1,9 @@
-# My Profolio Website Rrectaion - Work Examples.
+# My Portfolio Website Recreation - Work Examples.
 
-Welocome top the work exmplaes repo for my portfolio website creation.
+Welcome top the work examples repo for my portfolio website creation.
 
 ## About The Repo:
-The repo has my work exmaples for NSCC IT Porgramming Projects and Assigmnets. 
+The repo has my work examples for NSCC IT Programming Projects and Assignments. 
 
 ## Term and Conditions
-This weork exmaple repo is a portfolio pice for my website recreation. You may read the code, and use in other repos as long modify it for your needs. You may test out the functionality of the project by frok it and clone it down to your computer. This repo is own by Daniel Cox and copyright under the stand copyright license.
+This work example repo is a portfolio pice for my website recreation. You may read the code, and use in other repos as long modify it for your needs. You may test out the functionality of the project by fork it and clone it down to your computer. This repo is own by Daniel Cox and copyright under the stand copyright license.
