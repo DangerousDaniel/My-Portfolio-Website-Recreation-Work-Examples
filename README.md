@@ -1,8 +1,8 @@
-# My Portfolio Website Recreation - Work Examples.
+# My Portfolio Website Recreation - Work Examples
 
 Welcome top the work examples repo for my portfolio website creation.
 
-## About The Repo:
+## About The Repo
 The repo has my work examples for NSCC IT Programming Projects and Assignments. 
 
 ## Term and Conditions
