@@ -1,3 +1,0 @@
-name: DanielDBTest
-runtime: nodejs
-description: A minimal AWS JavaScript Pulumi program
